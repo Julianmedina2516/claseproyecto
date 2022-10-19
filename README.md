@@ -11,4 +11,5 @@ Clase Proyecto para aprender las base de la programación
     	git push "Sube los cambios locales al servidor remoto"
 		git fetch "revisa si hay cambios en el repositorio remoto"
 		git merge "mezcla los cambios"
+		si se traba la terminal digita CTRL+c
 		
