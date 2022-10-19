@@ -62,3 +62,4 @@ fin
 ------------ *Fin tarea* -----
 .
 nuevo dia nueva tarea 
+[![ia](/assets/images/IA.ig "ia gif")](https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif)
